@@ -57,7 +57,7 @@ Now you're ready to play!
 
 ## Note
 
-replace "<repository-url>", "<your-username>", and <your-repo-name> with your actual repository information. 
+replace "repository-url", "your-username", and your-repo-name with your actual repository information. 
 
 ## Play Now
 
